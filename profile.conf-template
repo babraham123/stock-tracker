@@ -1,0 +1,10 @@
+{
+  "yahoo_code": "vfiax",
+  "phone": "123-456-7890",
+  "phone_carrier": "Verizon",
+  "email": "john@example.com",
+  "gmail_address": "john@gmail.com",
+  "gmail_password": "ppp"
+}
+
+# carrier options = verizon,at&t,sprint,tmobile,cricket,republic,uscellular,virgin,boost,alltel,nextel
